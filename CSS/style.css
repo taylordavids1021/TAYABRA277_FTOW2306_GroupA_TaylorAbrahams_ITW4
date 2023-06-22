@@ -47,3 +47,8 @@ aside a {
     text-underline-offset: none;
     font-weight: bolder;
 }
+
+/*H2*/
+h2 {
+    text-decoration: underline;
+}
