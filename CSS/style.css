@@ -1,0 +1,32 @@
+/* CSS STYLE SHEET*/
+body {
+    background-color: rgb(216, 248, 255);
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: brown;
+    font-weight: 500;
+    font-size: 80px;
+    text-align: center;
+    margin-bottom: 0;
+}
+header {
+    margin: 0;
+}
+header p {
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+.icon {
+    width: 80px;
+    height: 80px;
+}
+header img {
+    border-radius: 8px;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
